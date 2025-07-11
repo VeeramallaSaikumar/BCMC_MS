@@ -1,0 +1,2 @@
+Status Code: 200
+SuccessMessage: Non-submitted candidates fetched successfully

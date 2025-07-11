@@ -1,0 +1,7 @@
+Resonse: {
+  status: false,
+  statusCode: 400,
+  message: 'Validation failed',
+  timestamp: '2025-07-10T13:00:26.999+00:00',
+  data: { mobileNumber: 'Mobile number is required' }
+}

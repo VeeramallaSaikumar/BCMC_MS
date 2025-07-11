@@ -1,0 +1,2 @@
+Client Login successful
+Token saved to .env file: eyJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiVVNFUiIsInN1YiI6ImRlZXB0aGkua0BjbGllbnRzZXJ2ZXJ0ZWNoLmNvbSIsImlhdCI6MTc1MjE0ODQwOCwiZXhwIjoxNzUyMTQ5MzA4fQ.ZADEBf3PIppZK34RyVn2A6ubzkgryeOYFmN4y9gbYOs

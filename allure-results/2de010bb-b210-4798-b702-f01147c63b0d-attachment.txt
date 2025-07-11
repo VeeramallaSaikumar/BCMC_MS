@@ -1,0 +1,11 @@
+Resonse: {
+  status: true,
+  statusCode: 200,
+  message: 'Candidate registered successfully. Credentials and verification link sent to email.',
+  timestamp: '2025-07-10T13:01:19.688+00:00',
+  data: {
+    candidateId: 'TRU000018',
+    username: 'TRU000018',
+    password: 'v73u@v9&'
+  }
+}
